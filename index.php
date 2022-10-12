@@ -1,4 +1,4 @@
-<?phpecho 'k' ?>
+<?php echo 'k' ?>
 <!DOCTYPE html>
 <html lang="en">
 
