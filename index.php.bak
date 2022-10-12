@@ -1,4 +1,4 @@
-<?phpecho 'k' ?>
+<?php echo 'k' ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -14,7 +14,7 @@
     <title>MobWebGuru Technologies</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="subh/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Additional CSS Files -->
     <link rel="stylesheet" href="assets/css/fontawesome.css">
@@ -317,12 +317,12 @@
     </div>
   </footer>
   <!-- Scripts -->
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/js/owl-carousel.js"></script>
-  <script src="assets/js/animation.js"></script>
-  <script src="assets/js/imagesloaded.js"></script>
-  <script src="assets/js/templatemo-custom.js"></script>
+  <script src="subh/jquery/jquery.min.js"></script>
+  <script src="subh/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="subh/js/owl-carousel.js"></script>
+  <script src="subh/js/animation.js"></script>
+  <script src="subh/js/imagesloaded.js"></script>
+  <script src="subh/js/templatemo-custom.js"></script>
 
 </body>
 </html>
