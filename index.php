@@ -1,4 +1,4 @@
-<?php echo 'k' ?>
+<?php echo 'loading...' ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -24,19 +24,6 @@
   </head>
 
 <body>
-
-  <!-- ***** Preloader Start ***** -->
-  <div id="js-preloader" class="js-preloader">
-    <div class="preloader-inner">
-      <span class="dot"></span>
-      <div class="dots">
-        <span></span>
-        <span></span>
-        <span></span>
-      </div>
-    </div>
-  </div>
-  <!-- ***** Preloader End ***** -->
 
   <!-- ***** Header Area Start ***** -->
   <header class="header-area header-sticky wow slideInDown" data-wow-duration="0.75s" data-wow-delay="0s">
