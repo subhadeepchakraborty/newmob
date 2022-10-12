@@ -17,7 +17,7 @@ if ($conn->connect_error) {
 $sql = "INSERT INTO userTable (name, email, message) VALUES ('$name', '$email', '$message')";
 
 if ($conn->query($sql) === TRUE) {
-  echo "New record created successfully";
+  echo "we will contact you soon.";
 } else {
   echo "Error: " . $sql . "<br>" . $conn->error;
 }
