@@ -323,15 +323,6 @@
   <script src="assets/js/animation.js"></script>
   <script src="assets/js/imagesloaded.js"></script>
   <script src="assets/js/templatemo-custom.js"></script>
-  <script>
-  var nameValue = document.getElementById("name").value;
-  var nameValue = document.getElementById("email").value;
-  var nameValue = document.getElementById("message").value;
-  document.getElementById('sub').onclick = () => {
-      myFunction();
-    }
-    function myFunction(){
-      alert("button clicked");
-    };
+
 </body>
 </html>
