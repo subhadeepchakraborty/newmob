@@ -33,7 +33,7 @@
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <a href="index.html" class="logo">
-              <h4>MOBWEBGURU<span>TECHNOLOGIES</span></h4>
+              <h4>MOBWEBGURU<span>TECH</span></h4>
             </a>
             <ul class="nav">
               <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
