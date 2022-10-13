@@ -1,4 +1,4 @@
-<?php echo 'k' ?>
+<?php echo 'loading...' ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -17,26 +17,13 @@
     <link href="subh/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Additional CSS Files -->
-    <link rel="stylesheet" href="assets/css/fontawesome.css">
-    <link rel="stylesheet" href="assets/css/templatemo-space-dynamic.css">
-    <link rel="stylesheet" href="assets/css/animated.css">
-    <link rel="stylesheet" href="assets/css/owl.css">
+    <link rel="stylesheet" href="su/css/fontawesome.css">
+    <link rel="stylesheet" href="su/css/templatemo-space-dynamic.css">
+    <link rel="stylesheet" href="su/css/animated.css">
+    <link rel="stylesheet" href="su/css/owl.css">
   </head>
 
 <body>
-
-  <!-- ***** Preloader Start ***** -->
-  <div id="js-preloader" class="js-preloader">
-    <div class="preloader-inner">
-      <span class="dot"></span>
-      <div class="dots">
-        <span></span>
-        <span></span>
-        <span></span>
-      </div>
-    </div>
-  </div>
-  <!-- ***** Preloader End ***** -->
 
   <!-- ***** Header Area Start ***** -->
   <header class="header-area header-sticky wow slideInDown" data-wow-duration="0.75s" data-wow-delay="0s">
@@ -45,8 +32,8 @@
         <div class="col-12">
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
-            <a href="index.html" class="logo">
-              <h4>MOBWEBGURU<span>TECHNOLOGIES</span></h4>
+            <a href="index.php" class="logo">
+              <h4>MOBWEBGURU<span>TECH</span></h4>
             </a>
             <ul class="nav">
               <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
@@ -81,7 +68,7 @@
             </div>
             <div class="col-lg-6">
               <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-                <img src="assets/images/banner-right-image.png" alt="team meeting">
+                <img src="su/images/banner-right-image.png" alt="team meeting">
               </div>
             </div>
           </div>
@@ -95,7 +82,7 @@
       <div class="row">
         <div class="col-lg-4">
           <div class="left-image wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
-            <img src="assets/images/about-left-image.png" alt="person graphic">
+            <img src="su/images/about-left-image.png" alt="person graphic">
           </div>
         </div>
         <div class="col-lg-8 align-self-center">
@@ -104,7 +91,7 @@
               <div class="col-lg-6">
                 <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
                   <div class="icon">
-                    <img src="assets/images/service-icon-01.png" alt="reporting">
+                    <img src="su/images/service-icon-01.png" alt="reporting">
                   </div>
                   <div class="right-text">
                     <h4>Mobile Applications</h4>
@@ -115,7 +102,7 @@
               <div class="col-lg-6">
                 <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s">
                   <div class="icon">
-                    <img src="assets/images/service-icon-02.png" alt="">
+                    <img src="su/images/service-icon-02.png" alt="">
                   </div>
                   <div class="right-text">
                     <h4>Website or Web Development</h4>
@@ -126,7 +113,7 @@
               <div class="col-lg-6">
                 <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.9s">
                   <div class="icon">
-                    <img src="assets/images/service-icon-03.png" alt="">
+                    <img src="su/images/service-icon-03.png" alt="">
                   </div>
                   <div class="right-text">
                     <h4>IOT & Ai</h4>
@@ -148,7 +135,7 @@
       <div class="row">
         <div class="col-lg-6 align-self-center  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s">
           <div class="left-image">
-            <img src="assets/images/services-left-image.png" alt="">
+            <img src="su/images/services-left-image.png" alt="">
           </div>
         </div>
         <div class="col-lg-6 wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.2s">
@@ -189,73 +176,6 @@
       </div>
     </div>
   </div>
-
-  <div id="portfolio" class="our-portfolio section">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-6 offset-lg-3">
-          <div class="section-heading  wow bounceIn" data-wow-duration="1s" data-wow-delay="0.2s">
-            <h2>See What Our Comapany <em>Offers</em> &amp; What We <span>Provide</span></h2>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-3 col-sm-6">
-          <a href="#">
-            <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.3s">
-              <div class="hidden-content">
-                <h4>Software Development</h4>
-                <p>Less Budget More Quality Software development</p>
-              </div>
-              <div class="showed-content">
-                <img src="assets/images/company-logo.png" alt="">
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="col-lg-3 col-sm-6">
-          <a href="#">
-            <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.4s">
-              <div class="hidden-content">
-                <h4>Software Manintenance</h4>
-                <p>2 months maintenance free</p>
-              </div>
-              <div class="showed-content">
-                <img src="assets/images/company-logo.png" alt="">
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="col-lg-3 col-sm-6">
-          <a href="#">
-            <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.5s">
-              <div class="hidden-content">
-                <h4>Software Consultancy</h4>
-                <p>How to improve software quality.</p>
-              </div>
-              <div class="showed-content">
-                <img src="assets/images/company-logo.png" alt="">
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="col-lg-3 col-sm-6">
-          <a href="#">
-            <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.6s">
-              <div class="hidden-content">
-                <h4>Any Many more...</h4>
-              </div>
-              <div class="showed-content">
-                <img src="assets/images/company-logo.png" alt="">
-              </div>
-            </div>
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  </script>
  
   <div id="contact" class="contact-us section">
     <div class="container">
@@ -263,9 +183,8 @@
         <div class="col-lg-6 align-self-center wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.25s">
           <div class="section-heading">
             <h2>Feel Free To Send Us a Message About Your Website Needs</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doer ket eismod tempor incididunt ut labore et dolores</p>
             <div class="phone-info">
-              <h4>For any enquiry, Call Us: <span><i class="fa fa-phone"></i> <a href="#">010-020-0340</a></span></h4>
+              <h4>For any enquiry, Call Us: <span><i class="fa fa-phone"></i> <a href="#">+91 9834758738</a></span></h4>
             </div>
           </div>
         </div>
@@ -297,7 +216,7 @@
               </div>
             </div>
             <div class="contact-dec">
-              <img src="assets/images/contact-decoration.png" alt="">
+              <img src="su/images/contact-decoration.png" alt="">
             </div>
           </form>
         </div>
@@ -309,9 +228,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.25s">
-          <p>© Copyright 2021 Space Dynamic Co. All Rights Reserved. 
-          
-          <br>Design: <a rel="nofollow" href="https://templatemo.com">TemplateMo</a></p>
+          <p>© Copyright 2022 MobWebGuru Technologies
         </div>
       </div>
     </div>

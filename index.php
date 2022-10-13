@@ -236,10 +236,10 @@
   <!-- Scripts -->
   <script src="subh/jquery/jquery.min.js"></script>
   <script src="subh/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="subh/js/owl-carousel.js"></script>
-  <script src="subh/js/animation.js"></script>
-  <script src="subh/js/imagesloaded.js"></script>
-  <script src="subh/js/templatemo-custom.js"></script>
+  <script src="su/js/owl-carousel.js"></script>
+  <script src="su/js/animation.js"></script>
+  <script src="su/js/imagesloaded.js"></script>
+  <script src="su/js/templatemo-custom.js"></script>
 
 </body>
 </html>
