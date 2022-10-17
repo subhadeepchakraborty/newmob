@@ -6,6 +6,7 @@ $dbname = "sql6525693";
 $name = $_POST['name'];
 $email = $_POST['email'];
 $message = $_POST['message'];
+mail("mobwebguru@gmail.com","Query Website",$name.' '.$email.' '.$message );
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
