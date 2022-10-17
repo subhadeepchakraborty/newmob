@@ -9,8 +9,7 @@ $dbname = "sql6525693";
 $name = $_POST['name'];
 $email = $_POST['email'];
 $message = $_POST['message'];
-$ok =mail("csubh143@gmail.com","Query Website","heelo");
-echo .$ok;
+mail("csubh143@gmail.com","Query Website","heelo");
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
 // Check connection
