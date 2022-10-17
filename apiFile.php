@@ -9,10 +9,7 @@ $dbname = "sql6525693";
 $name = $_POST['name'];
 $email = $_POST['email'];
 $message = $_POST['message'];
-$success = mail('example@example.com','New Enquiry',"nj");
-if (!$success) {
-   print_r(error_get_last()['message']);
-}// Create connection
+// Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
 // Check connection
 if ($conn->connect_error) {
