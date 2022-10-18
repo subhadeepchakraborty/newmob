@@ -2,10 +2,10 @@
 error_reporting(-1);
 ini_set('display_errors', 'On');
 set_error_handler("var_dump");
-$servername = "sql6.freemysqlhosting.net";
-$username = "sql6525693";
-$password = "ylDik4dEIc";
-$dbname = "sql6525693";
+$servername = "remotemysql.com";
+$username = "u4ALLcHTNG";
+$password = "XROIUJxZdU";
+$dbname = "u4ALLcHTNG";
 $name = $_POST['name'];
 $email = $_POST['email'];
 $message = $_POST['message'];
