@@ -2,7 +2,7 @@
 error_reporting(-1);
 ini_set('display_errors', 'On');
 set_error_handler("var_dump");
-$servername = "localhost";
+$servername = "000webhost.com";
 $username = "id19697803_user";
 $password = "Password@12345";
 $dbname = "id19697803_mobweb";
