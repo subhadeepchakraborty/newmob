@@ -2,10 +2,10 @@
 error_reporting(-1);
 ini_set('display_errors', 'On');
 set_error_handler("var_dump");
-$servername = "remotemysql.com";
-$username = "u4ALLcHTNG";
-$password = "XROIUJxZdU";
-$dbname = "u4ALLcHTNG";
+$servername = "localhost";
+$username = "id19697803_user";
+$password = "Password@12345";
+$dbname = "id19697803_mobweb";
 $name = $_POST['name'];
 $email = $_POST['email'];
 $message = $_POST['message'];
